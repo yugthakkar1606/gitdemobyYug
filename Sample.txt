@@ -1,0 +1,2 @@
+New sample file
+This line is addeded aftr adding Script.js
